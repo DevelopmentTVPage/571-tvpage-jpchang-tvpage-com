@@ -1,0 +1,189 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "154283246",
+            "title": "10 'As Seen on TV' Products Put To The Test!",
+            "date_created": "1520902122",
+            "loginId": "1758991",
+            "tags": null,
+            "description": "More Strange 'As Seen On TV' Products \u27a1 Subscribe Now! \u27a1 https:\/\/www.youtube.com\/user\/matthiasiam?sub_confirmation=1 \u2b07   MORE LINKS BELOW \u2b07   \u2b07   FOLLOW ME \u2b07   MATT & AMANDA...",
+            "asset": {
+                "type": "youtube",
+                "author": "Matthias",
+                "hdvFlag": 1,
+                "description": "More Strange 'As Seen On TV' Products \u27a1 Subscribe Now! \u27a1 https:\/\/www.youtube.com\/user\/matthiasiam?sub_confirmation=1 \u2b07   MORE LINKS BELOW \u2b07   \u2b07   FOLLOW ME \u2b07   MATT & AMANDA...",
+                "tags": "",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154283246\/thumbnail\/image-thumbnail-640-c2d220582956e34d4985d0ec589f3b91.jpg",
+                "videoId": "4LBxoqhPCYk",
+                "mediaDuration": 1432,
+                "prettyDuration": "00:23:52",
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/1758991\/154283246\/user-images\/image-1280-68c59b4b86c19d945cedebb525467426.jpg"
+                ],
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154283246\/user-images\/image-1280-68c59b4b86c19d945cedebb525467426.jpg",
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/1758991\/154283246\/thumbnail\/image-thumbnail-256-90c7405f8ea1f55e41ba41129758a5ac.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/1758991\/154283246\/thumbnail\/image-thumbnail-480-8077fbdf9b5e47e5f2635a7094c8f777.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/1758991\/154283246\/thumbnail\/image-thumbnail-640-c2d220582956e34d4985d0ec589f3b91.jpg",
+                    "1280": "\/\/v-dev.tvpage.com\/1758991\/154283246\/thumbnail\/image-thumbnail-1280-03d84881c9f09b9362d3cab34551a99f.jpg"
+                }
+            },
+            "parentId": "162779359",
+            "url": "\/new-channel\/10-as-seen-on-tv-products-put-to-the-test\/162779359-154283246"
+        },
+        {
+            "id": "154285956",
+            "title": "12336748.mp4",
+            "date_created": "1520982357",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "346",
+                    "width": 724,
+                    "height": 408
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 724,
+                        "height": 408
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 724,
+                        "height": 408
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 724,
+                        "height": 408
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "346",
+                "prettyDuration": "00:05:46",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/thumb-b9f0ea7056ce7caad305d7871cea06c3-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/media.m3u8"
+            },
+            "parentId": "162779359",
+            "url": "\/new-channel\/12336748-mp4\/162779359-154285956"
+        },
+        {
+            "id": "154765988",
+            "title": "1080p_media.mp4",
+            "date_created": "1521076522",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "16",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "16",
+                "prettyDuration": "00:00:16",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758991\/canvas\/1920\/1080\/572577763-1522957245.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "162779359",
+            "url": "\/new-channel\/1080p-media-mp4\/162779359-154765988"
+        },
+        {
+            "id": "154265110",
+            "title": "August Alsina | The Product 2 (Full Mixtape)",
+            "date_created": "1520892293",
+            "loginId": "1758991",
+            "tags": null,
+            "description": "Released May 2013 0:00 - 1:23 | The Product (feat. Jazze Pha) 1:23 - 5:46 | I Luv This Shit (feat. Trinidad Jame$) 5:46 - 9:36 | Work (feat. Roscoe Dash) 9:36 - 10:46 | Confessions Interlude...",
+            "asset": {
+                "type": "youtube",
+                "author": "LateNightLukas",
+                "hdvFlag": 1,
+                "description": "Released May 2013 0:00 - 1:23 | The Product (feat. Jazze Pha) 1:23 - 5:46 | I Luv This Shit (feat. Trinidad Jame$) 5:46 - 9:36 | Work (feat. Roscoe Dash) 9:36 - 10:46 | Confessions Interlude...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WY49EBDeWC8\/maxresdefault.jpg",
+                "videoId": "WY49EBDeWC8",
+                "mediaDuration": 2838,
+                "prettyDuration": "00:47:18"
+            },
+            "parentId": "162779359",
+            "url": "\/new-channel\/august-alsina-the-product-2-full-mixtape\/162779359-154265110"
+        }
+    ]
+}
